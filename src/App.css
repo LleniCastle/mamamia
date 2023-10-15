@@ -1,0 +1,68 @@
+body {
+    background-image: url(/src/assets/bg.jpg);
+}
+
+.cart-title {
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px;
+    color:hotpink;
+}
+
+.namePizzaCart {
+    text-transform: capitalize;
+    color: rgb(255, 255, 255);
+    font-family: cursive;
+    font-size: 20px;
+}
+
+.titledetail {
+    text-transform: capitalize;
+    color: rgb(13, 231, 231);
+}
+
+.bodycarddetail {
+    color: hotpink;
+    text-align: center;
+}
+
+.customcard {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+
+.customcard:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.titlecard {
+    text-transform: capitalize;
+    color: rgb(97, 102, 170);
+}
+
+.list {
+    text-transform: capitalize;
+    text-align: end;
+}
+
+.icon {
+    margin-left: 10px;
+    color: hotpink;
+}
+
+.transparent-toast {
+    background-color: rgba(255, 255, 255, 0.8); /* Fondo blanco transparente */
+    color: #000; /* Color del texto */
+}
+
+.pizzacart{
+    background-color: rgba(255, 255, 255, 0.432);
+}
+
+h4{
+    color:aliceblue;
+    text-align: end;
+}

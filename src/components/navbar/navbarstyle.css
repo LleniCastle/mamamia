@@ -1,0 +1,24 @@
+.navbar {
+    background-color: black; 
+    color: white; 
+}
+
+.navbar-brand img {
+    width: 50px; 
+    height: auto; 
+    margin-right: 10px; 
+}
+
+h1 {
+    color: rgb(223, 156, 223); 
+}
+
+.nav-link {
+    color:cyan !important; 
+    font-size: large;
+}
+.subtitlenav{
+    color:cyan;
+    font-family:cursive;
+    font-size: 30px;
+}

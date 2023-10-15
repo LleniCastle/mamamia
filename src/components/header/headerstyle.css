@@ -1,0 +1,13 @@
+.header-style {
+    background-color: rgba(255, 255, 255, 0.863);
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+    margin: 30px;
+    font-weight: 1000;
+    }
+
+.lead {
+    color: rgb(14, 185, 185);
+    font-size: 30px;
+}
